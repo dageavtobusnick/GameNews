@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fc32b3b-2bc3-4b98-9407-6bc888c087da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5mwgXqk6nqf4Jrm5yiLsFT99D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GameNews/resources/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\resources\images" />
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\resources" />
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\resources\views" />
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\public\images" />
+      <recent name="C:\Users\Mi\PhpstormProjects\GameNews\GameNews\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc32b3b-2bc3-4b98-9407-6bc888c087da" name="Default Changelist" comment="" />
+      <created>1599309569158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599309569158</updated>
+      <workItem from="1599309570417" duration="10097000" />
+      <workItem from="1599454597586" duration="3055000" />
+      <workItem from="1599767627239" duration="752000" />
+      <workItem from="1600022638267" duration="1343000" />
+      <workItem from="1600107439662" duration="2633000" />
+      <workItem from="1600785468682" duration="900000" />
+      <workItem from="1602209138758" duration="1779000" />
+      <workItem from="1602270555617" duration="600000" />
+      <workItem from="1602271333458" duration="25000" />
+      <workItem from="1602271407257" duration="9403000" />
+      <workItem from="1602349696704" duration="434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602350078613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602350078613" />
+    <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1602349831812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="332" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1602349831812" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602350118176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602350118176" />
+    <state x="317" y="23" width="578" height="801" key="find.popup" timestamp="1599312507769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="23" width="578" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599312507769" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600785952629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600785952629" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "atehnix/laravel-vk-requester": "^1.1"
+    }
+}
