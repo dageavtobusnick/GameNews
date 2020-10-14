@@ -18,6 +18,9 @@
     </div>
 </header>
 <div class="menu" id="menu" name="menu"></div>
+<div>
+<a class="test" href="{{route('test')}}">тест</a>
+</div>
 <script src="{{asset('js/app.js')}}"></script>
 </body>
 </html>

@@ -2,9 +2,10 @@
 
 namespace App\Console;
 
+use http\Client;
+use http\Env;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
-
 class Kernel extends ConsoleKernel
 {
     /**
@@ -26,6 +27,16 @@ class Kernel extends ConsoleKernel
     {
         // $schedule->command('inspire')
         //          ->hourly();
+        $schedule->call(function (){
+            $vk = new VkClient\Client();
+            $count=10;
+            $request=new VkClient\Request();
+            $responseGroup1 = $vk->groups()->getById(Env::VK_TOKEN,array(
+                'group_ids' => 'urfumemes'));
+            $response = $vk->wall()->get(Env::VK_TOKEN,array(
+
+                'owner_id' => -$responseGroup1[0]['id'],'offset'=>1,'count'=>$count));
+        })->hourly();
     }
 
     /**
